@@ -1,5 +1,5 @@
-## THIS IS A FORK FROM https://github.com/DmitryLanda/phpstorm-monokai
-#### This version supports Objective-C (for AppCode), Java (for IntelliJ IDEA), Ruby (for RubyMine, even though it already has a Monokai color scheme), and has better PHP support (PhpStorm)
+## THIS IS CUSTOMIZED FORK FROM https://github.com/OtaK/jetbrains-monokai-sublime
+#### This version has better PHP support (PhpStorm) for twig, symfony.
 
 This is a port of the Monokai theme from Sublime Text 2 to IntelliJ IDEA-based IDEs. It looks a bit like this:
 
@@ -19,16 +19,10 @@ scheme called "Monokai Sublime".
 
 Click Apply.
 
-Search your hard drive for a file called "Monokai_Sublime.xml"
+Search your hard drive for a file called "Monokai_Sublime.icls"
 
 Replace that file with the one in this github repository.
 
-On a Mac, you'll find that file at
-`~/Library/Preferences/WebIDE10/colors/Monokai_Sublime.xml`
-
 On Linux the file is located at
-`~/.WebIde10/config/colors/Monokai_Sublime.xml`
-
-On Windows, the files are located in
-`C:\Documents and Settings\<Your username>\.WebIde10\config\colors`
+`~/.PhpStorm2016.1/config/colors/`
 
